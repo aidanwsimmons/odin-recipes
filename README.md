@@ -1,0 +1,1 @@
+This is an HTML project that is part of the foundations course of the odin project.
